@@ -7,4 +7,6 @@ for (let i = 1; i <= num; i++) {
     }
 }
 
+alert('Open the console to see the result.')
+
 console.log('The sum of all the even numbers is: ' + sum);
